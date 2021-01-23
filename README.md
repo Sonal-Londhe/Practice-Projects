@@ -1,1 +1,2 @@
-# Titanic_survival_Prediction
+# Practice Projects
+> This repository contains all practice projects of ML.
